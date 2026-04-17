@@ -1,0 +1,8 @@
+﻿VaultMorph Installer Checksums
+Generated: 2026-04-17 22:50:05
+================================
+File: VaultMorphAIShield_Setup_v1.0.0.exe
+Size: 62.85 MB
+SHA256: E874B315114B6DD0CD6501BC6DCF2776245D359EE1707F793E5E2E137279B2C6
+Date: 2026-04-17 21:04:05
+
