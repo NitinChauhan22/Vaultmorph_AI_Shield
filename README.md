@@ -107,12 +107,6 @@ Each panel (Sensitive Input, Sanitized Output, Side-by-Side Diff) has a **⤢ Po
 - **Help → Detection Rules Reference** opens a scrollable table of every active rule — verify the count and scan for new rule names
 - **Enterprise PDF report → Section 9 (Configuration Snapshot)** shows the live rule count
 
-### Update from URL
-**Help → Update Rules from URL…** — paste a URL to a signed `rules.json`. The companion `.sig` is fetched automatically from `<url>.sig`.
-
-### Which rules file is active?
-Imported packs are stored at `%APPDATA%\VaultMorph\rules.json`. This takes priority over the bundled rules on every launch — imported packs survive EXE restarts.
-
 ---
 
 ## Exports & Reports
